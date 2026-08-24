@@ -7,7 +7,7 @@ require (
 	github.com/mreiferson/go-httpclient v0.0.0-20160630210159-31f0106b4474
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/sirupsen/logrus v1.10.1
-	github.com/stretchr/testify v1.12.0
+	github.com/stretchr/testify v1.12.1
 	github.com/weppos/publicsuffix-go v0.50.3
 	github.com/zmap/rc2 v0.0.0-20190804163417-abaa70531248
 	github.com/zmap/zcertificate v0.0.1
@@ -19,7 +19,7 @@ require (
 require (
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/kr/text v0.1.0 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/sys v0.47.0 // indirect
 	golang.org/x/text v0.41.0 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
